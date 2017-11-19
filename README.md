@@ -1,7 +1,7 @@
 # Php_SQL_project
 This is my Project for PHP/SQL course at Laurea University of applied sciences. Goal was to create simple php image gallery.
 
-# Updated: Fixed the paths in links etc.
+[Update]: Fixed the paths in links etc.
 
 
 # Installation
